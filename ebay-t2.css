@@ -21,7 +21,7 @@ h6 { font: 1.2em 'Quicksand', sans-serif; }
   background: #fff;
   font: 16px '"Yanone Kaffeesatz"', sans-serif;
   margin: auto;
-  max-width: 1100px;
+  max-width: 950px;
   text-align: justify;
   width: 100%;
 }
@@ -34,7 +34,8 @@ h6 { font: 1.2em 'Quicksand', sans-serif; }
 .logoimg { max-height: 100%; }
 .product-container { height: 500px; }
 .product-container img {
-  max-width: 75%;
+  max-width: 650px;
+  max-height: 350px;
 }
 #product-collection { margin: 20px; }
 article > img,
