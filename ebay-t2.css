@@ -33,6 +33,9 @@ h6 { font: 1.2em 'Quicksand', sans-serif; }
 }
 .logoimg { max-height: 100%; }
 .product-container { height: 500px; }
+.product-container img {
+  max-width: 75%;
+}
 #product-collection { margin: 20px; }
 article > img,
 .focused_image { max-height: 500px; }
