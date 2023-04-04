@@ -35,7 +35,7 @@ h6 { font: 1.2em 'Quicksand', sans-serif; }
 .product-container { height: 500px; }
 .product-container img {
   max-width: 650px;
-  max-height: 350px;
+  max-height: 500px;
 }
 #product-collection { margin: 20px; }
 article > img,
